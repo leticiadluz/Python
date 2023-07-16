@@ -1,4 +1,5 @@
-#Criar uma calculadora que exiba mensagem de erro ao verificar que usuário forneceu uma entrada inválida, ou tentou realizar divisão por 0.
+#Criar uma calculadora que exiba mensagem de erro ao verificar que usuário forneceu uma entrada inválida, 
+#ou tentou realizar divisão por 0.
 
 def obter_numero():
     while True:
